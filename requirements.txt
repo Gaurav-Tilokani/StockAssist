@@ -1,0 +1,8 @@
+pandas_datareader
+streamlit
+pandas
+numpy
+matplotlib
+datetime
+tensorflow
+sklearn
